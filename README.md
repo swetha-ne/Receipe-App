@@ -1,4 +1,4 @@
-#  Recipe App  
+#  Recipe-App  
 
 A cross-platform mobile application built with **React Native** and **Expo**, allowing users to browse, search, and save their favorite recipes with YouTube video tutorials.  
 
