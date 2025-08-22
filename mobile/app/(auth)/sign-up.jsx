@@ -38,7 +38,7 @@ const SingUpScreen = () => {
 
   return (
     <View>
-      <Text>SignUpppp</Text>
+      <Text>SignUpppppppppppppp</Text>
     </View>
   );
 };
