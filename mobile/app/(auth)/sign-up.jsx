@@ -38,7 +38,7 @@ const SingUpScreen = () => {
 
   return (
     <View>
-      <Text>SignUp</Text>
+      <Text>SignUpppp</Text>
     </View>
   );
 };
